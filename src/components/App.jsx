@@ -23,7 +23,6 @@ export class App extends Component {
       ],
     });
   }
-  console.log(parsedContacts);
 }
 
   componentDidUpdate(prevProps, prevState) {
